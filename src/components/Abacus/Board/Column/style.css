@@ -1,0 +1,6 @@
+.column {
+  border-top: 1px solid black;
+  height: 2px;
+  display: flex;
+  justify-content: space-around;
+}
